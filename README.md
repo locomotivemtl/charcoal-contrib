@@ -2,9 +2,27 @@
 
 Boilerplate and forum for discussing issues and new features for Charcoal.
 
+---
+
 ### Package Skeleton
 
-_—TBD—_
+The skeleton, named "foobar", can be found under the [`/package-name`](package-name) directory.
+
+1.  Vendor/Package:
+    -   `charcoal-contrib-%my-feature%`
+2.  Replace:
+    -   `charcoal-contrib-foobar`
+    -   `foo-bar`
+    -   `FooBar`
+    -   "Charcoal service provider for my cool feature."
+3.  Remove:
+    -   `metadata/charcoal/foo-bar/example-interface.json`
+    -   `src/Charcoal/FooBar/ExampleInterface.php`
+    -   `tests/Charcoal/FooBar/ExampleTest.php`
+4.  Update:
+    -   [`composer.json`](/package-name/composer.json)
+    -   [`.travis.yml`](/package-name/.travis.yml)
+    -   [`README`](/package-name/README.md)
 
 ---
 
