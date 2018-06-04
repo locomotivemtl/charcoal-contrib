@@ -15,6 +15,9 @@ Contrib serves as a boilerplate and forum for discussing issues and new features
 #### [mducharme/charcoal-presenter](https://packagist.org/packages/mducharme/charcoal-presenter) ![Latest Stable Version](https://img.shields.io/packagist/v/mducharme/charcoal-presenter.svg?style=flat-square)
 > The missing layer between models and views
 
+#### [locomotivemtl/charcoal-contrib-communicator](https://packagist.org/packages/locomotivemtl/charcoal-contrib-communicator) ![Latest Stable Version](https://img.shields.io/packagist/v/locomotivemtl/charcoal-contrib-communicator.svg?style=flat-square)
+> Standardizes email communications destined for users and administors.
+
 #### [locomotivemtl/charcoal-contrib-content-builder](https://packagist.org/packages/locomotivemtl/charcoal-contrib-content-builder) ![Latest Stable Version](https://img.shields.io/packagist/v/locomotivemtl/charcoal-contrib-content-builder.svg?style=flat-square)
 > Utilities for content builder style attachments, using group attachment widget.
 
