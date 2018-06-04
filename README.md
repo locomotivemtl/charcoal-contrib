@@ -24,6 +24,9 @@ Contrib serves as a boilerplate and forum for discussing issues and new features
 #### [locomotivemtl/charcoal-contrib-sitemap](https://packagist.org/packages/locomotivemtl/charcoal-contrib-sitemap) ![Latest Stable Version](https://img.shields.io/packagist/v/locomotivemtl/charcoal-contrib-sitemap.svg?style=flat-square)
 > Sitemap builder.
 
+#### [locomotivemtl/charcoal-contrib-translatable-strings](https://packagist.org/packages/locomotivemtl/charcoal-contrib-translatable-strings) ![Latest Stable Version](https://img.shields.io/packagist/v/locomotivemtl/charcoal-contrib-translatable-strings.svg?style=flat-square)
+> Admin interface for translating strings found in templates and controllers.
+
 ---
 
 ### Package Skeleton
