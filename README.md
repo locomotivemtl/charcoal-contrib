@@ -21,6 +21,9 @@ Contrib serves as a boilerplate and forum for discussing issues and new features
 #### [locomotivemtl/charcoal-contrib-content-builder](https://packagist.org/packages/locomotivemtl/charcoal-contrib-content-builder) ![Latest Stable Version](https://img.shields.io/packagist/v/locomotivemtl/charcoal-contrib-content-builder.svg?style=flat-square)
 > Utilities for content builder style attachments, using group attachment widget.
 
+#### [locomotivemtl/charcoal-contrib-sitemap](https://packagist.org/packages/locomotivemtl/charcoal-contrib-sitemap) ![Latest Stable Version](https://img.shields.io/packagist/v/locomotivemtl/charcoal-contrib-sitemap.svg?style=flat-square)
+> Sitemap builder.
+
 ---
 
 ### Package Skeleton
