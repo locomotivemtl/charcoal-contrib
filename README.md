@@ -27,6 +27,12 @@ Contrib serves as a boilerplate and forum for discussing issues and new features
 #### [locomotivemtl/charcoal-contrib-translatable-strings](https://packagist.org/packages/locomotivemtl/charcoal-contrib-translatable-strings) ![Latest Stable Version](https://img.shields.io/packagist/v/locomotivemtl/charcoal-contrib-translatable-strings.svg?style=flat-square)
 > Admin interface for translating strings found in templates and controllers.
 
+#### [locomotivemtl/charcoal-contrib-formio](https://packagist.org/packages/locomotivemtl/charcoal-contrib-formio) ![Latest Stable Version](https://img.shields.io/packagist/v/locomotivemtl/charcoal-contrib-formio.svg?style=flat-square)
+> Charcoal service provider to add a form builder property input using form.io.
+
+#### [locomotivemtl/charcoal-contrib-tinify](https://packagist.org/packages/locomotivemtl/charcoal-contrib-tinify) ![Latest Stable Version](https://img.shields.io/packagist/v/locomotivemtl/charcoal-contrib-tinify.svg?style=flat-square)
+> Charcoal module to add tinify integration to charcoal (Asset compresion tool).
+
 ---
 
 ### Package Skeleton
