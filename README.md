@@ -33,6 +33,9 @@ Contrib serves as a boilerplate and forum for discussing issues and new features
 #### [locomotivemtl/charcoal-contrib-tinify](https://packagist.org/packages/locomotivemtl/charcoal-contrib-tinify) ![Latest Stable Version](https://img.shields.io/packagist/v/locomotivemtl/charcoal-contrib-tinify.svg?style=flat-square)
 > Charcoal module to add tinify integration to charcoal (Asset compresion tool).
 
+#### [locomotivemtl/charcoal-contrib-property-filter](https://packagist.org/packages/locomotivemtl/charcoal-contrib-property-filter) ![Latest Stable Version](https://img.shields.io/packagist/v/locomotivemtl/charcoal-contrib-property-filter.svg?style=flat-square)
+> Charcoal service provider for a collection filtering widget that uses model properties as filters.
+
 ---
 
 ### Package Skeleton
