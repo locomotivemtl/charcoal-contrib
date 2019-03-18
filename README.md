@@ -36,6 +36,9 @@ Contrib serves as a boilerplate and forum for discussing issues and new features
 #### [locomotivemtl/charcoal-contrib-property-filter](https://packagist.org/packages/locomotivemtl/charcoal-contrib-property-filter) ![Latest Stable Version](https://img.shields.io/packagist/v/locomotivemtl/charcoal-contrib-property-filter.svg?style=flat-square)
 > Charcoal service provider for a collection filtering widget that uses model properties as filters.
 
+#### [locomotivemtl/charcoal-contrib-embed](https://packagist.org/packages/locomotivemtl/charcoal-contrib-embed) ![Latest Stable Version](https://img.shields.io/packagist/v/locomotivemtl/charcoal-contrib-embed.svg?style=flat-square)
+> Charcoal service provider for an embed parser widget that stores parsed data into a table and the charcoal-cache system.
+
 ---
 
 ### Package Skeleton
