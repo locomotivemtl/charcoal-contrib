@@ -2,7 +2,7 @@
 
 Community supported 3rd party packages for Charcoal.
 
-Contrib serves as a boilerplate and forum for discussing issues and new features for Charcoal.
+Contrib serves as an index and forum for discussing issues and new features for Charcoal.
 
 ### Officially Supported Plugins
 
@@ -40,7 +40,7 @@ Contrib serves as a boilerplate and forum for discussing issues and new features
 
 ### Package Skeleton
 
-The skeleton, named "foobar", can be found under the [`/package-name`](package-name) directory.
+We provide a template repository, [locomotivemtl/charcoal-contrib-template](https://github.com/locomotivemtl/charcoal-contrib-template), to help you create new repositories with the same directory structure and files as used by existing Charcoal packages.
 
 1.  Vendor/Package:
     -   `charcoal-contrib-%my-feature%`
@@ -50,10 +50,13 @@ The skeleton, named "foobar", can be found under the [`/package-name`](package-n
     -   `FooBar`
     -   "Charcoal service provider for my cool feature."
 3.  Remove:
+    -   `config/config.json`
+    -   `metadata/admin/charcoal/foo-bar/example-interface.json`
     -   `metadata/charcoal/foo-bar/example-interface.json`
     -   `src/Charcoal/FooBar/ExampleInterface.php`
     -   `tests/Charcoal/FooBar/ExampleTest.php`
 4.  Update:
-    -   [`composer.json`](/package-name/composer.json)
-    -   [`.travis.yml`](/package-name/.travis.yml)
-    -   [`README`](/package-name/README.md)
+    -   `composer.json`
+    -   `.travis.yml`
+    -   `README`
+    -   `LICENSE`
