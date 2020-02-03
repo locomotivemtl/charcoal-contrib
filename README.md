@@ -45,6 +45,9 @@ Contrib serves as an index and forum for discussing issues and new features for 
 #### [locomotivemtl/charcoal-contrib-translatable-strings](https://packagist.org/packages/locomotivemtl/charcoal-contrib-translatable-strings) ![Latest Stable Version](https://img.shields.io/packagist/v/locomotivemtl/charcoal-contrib-translatable-strings.svg?style=flat-square)
 > Admin interface for translating strings found in templates and controllers.
 
+#### [mcaskill/charcoal-model-collection](https://packagist.org/packages/mcaskill/charcoal-model-collection) ![Latest Stable Version](https://img.shields.io/packagist/v/mcaskill/charcoal-model-collection.svg?style=flat-square)
+> Advanced model collections and collection loaders (repositories).
+
 #### [mcaskill/charcoal-support](https://packagist.org/packages/mcaskill/charcoal-support) ![Latest Stable Version](https://img.shields.io/packagist/v/mcaskill/charcoal-support.svg?style=flat-square)
 > Utility belt.
 
